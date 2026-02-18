@@ -22,7 +22,7 @@ class UseCaseJoin
 		System.out.println(String.join(" ", "**     **" , "**     **" , "******   " , "   ***   "));
 		System.out.println(String.join(" ", "**     **" , "**     **" , "**       " , "      ** "));
 		System.out.println(String.join(" ", "**     **" , "**     **" , "**       " , "       **"));
-		System.out.println(String.join(" ", " **   ** " , " **   ** " , "**       " , "      ** "));
 		System.out.println(String.join(" ", "   ***   " , "   ***   " , "**       " , "*****    "));
+		System.out.println(String.join(" ", " **   ** " , " **   ** " , "**       " , "      ** "));
 	}
 }

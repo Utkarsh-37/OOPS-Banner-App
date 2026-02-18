@@ -14,7 +14,7 @@
 // Extend the User story 1 to display the message "OOPS"  in a banner format using charecters formed by spaces and asteriks (*) to create a visual 
 // effect for each letter in the message. Use print statements for each line instead of a loop.
 
-public class UC2
+public class UCtwo
 {
 	public static void main(String[] args)
 	{
